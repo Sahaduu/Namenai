@@ -39,7 +39,7 @@ module.exports = {
       });
     } catch (error) {
       console.error("Error:", error);
-      message.reply("provide a prompt to gen image.");
+      message.reply("Server busy please try again later! ");
     }
   }
 };
