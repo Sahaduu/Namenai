@@ -4,7 +4,7 @@ module.exports = {
     name: "cax",
     aliases: ["cx"],
     version: "1.0",
-    author: "rehat--",
+    author: "TCA",
     countDown: 10,
     role: 0,
     longDescription: "Made With Chat GPT 3.5 Architecture Most Advance LLM Model",
