@@ -1,11 +1,11 @@
-const fs = require("fs");
+-cmd install animex.js const fs = require("fs");
 const path = require("path");
 const axios = require("axios");
 
 module.exports = {
   config: {
     name: "lm4",
-    aliases: ["lm4"],
+    aliases: ["animex"],
     author: "TCA",
     version: "1.0",
     cooldowns: 20,
@@ -16,7 +16,7 @@ module.exports = {
     guide: "{p}animex <prompt>",
   },
   onStart: async function ({ message, args, api, event }) {
-     api.setMessageReaction("✨", event.messageID, (err) => {}, true);  
+     api.setMessageReaction("⏳", event.messageID, (err) => {}, true);  
     try {
       const prompt = args.join(" ");
       const animexApiUrl = `https://imagegeneration-kshitiz-odpj.onrender.com/animex?prompt=${encodeURIComponent(prompt)}`;
@@ -34,7 +34,7 @@ module.exports = {
       fs.writeFileSync(imagePath, response.data);
 
       message.reply({
-        body: "",
+        body: "-lm4",
         attachment: fs.createReadStream(imagePath) 
       });
     } catch (error) {
