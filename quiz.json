@@ -1,0 +1,400 @@
+[ {
+    "question": "What is the highest-grossing film of all time (as of 2024)?",
+    "options": {
+      "A": "Avengers: Endgame",
+      "B": "Avatar",
+      "C": "Titanic",
+      "D": "Star Wars: The Force Awakens"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Who directed the movie 'Inception'?",
+    "options": {
+      "A": "Christopher Nolan",
+      "B": "Quentin Tarantino",
+      "C": "Steven Spielberg",
+      "D": "Martin Scorsese"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which anime series features a character named Naruto Uzumaki?",
+    "options": {
+      "A": "Dragon Ball Z",
+      "B": "Naruto",
+      "C": "One Piece",
+      "D": "Bleach"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Who is the main character in the TV series 'Breaking Bad'?",
+    "options": {
+      "A": "Walter White",
+      "B": "Jesse Pinkman",
+      "C": "Saul Goodman",
+      "D": "Skyler White"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which planet is known as the 'Red Planet'?",
+    "options": {
+      "A": "Venus",
+      "B": "Mars",
+      "C": "Jupiter",
+      "D": "Saturn"
+    },
+    "answer": "B"
+  },
+  {
+  "question": "What is the largest and most massive planet in our solar system?",
+  "options": {
+    "A": "Jupiter",
+    "B": "Saturn",
+    "C": "Uranus",
+    "D": "Neptune"
+  },
+  "answer": "A"
+},
+{
+  "question": "Who is known as the 'Father of Classical Physics'?",
+  "options": {
+    "A": "Albert Einstein",
+    "B": "Isaac Newton",
+    "C": "Galileo Galilei",
+    "D": "Max Planck"
+  },
+  "answer": "B"
+},
+{
+  "question": "What is the official language of India?",
+  "options": {
+    "A": "Tamil",
+    "B": "Hindi",
+    "C": "Punjabi",
+    "D": "Bengali"
+  },
+  "answer": "B"
+},
+{
+  "question": "Who discovered the structure of DNA?",
+  "options": {
+    "A": "Albert Einstein",
+    "B": "Isaac Newton",
+    "C": "Charles Darwin",
+    "D": "James Watson and Francis Crick"
+  },
+  "answer": "D"
+},
+{
+  "question": "What is the largest country by land area?",
+  "options": {
+    "A": "Russia",
+    "B": "Canada",
+    "C": "China",
+    "D": "United States"
+  },
+  "answer": "A"
+},
+{
+  "question": "Who is the author of the 'Sherlock Holmes' detective stories?",
+  "options": {
+    "A": "J.R.R. Tolkien",
+    "B": "Charles Dickens",
+    "C": "Arthur Conan Doyle",
+    "D": "Agatha Christie"
+  },
+  "answer": "C"
+},
+{
+  "question": "Which is the largest internal organ in the human body?",
+  "options": {
+    "A": "Liver",
+    "B": "Heart",
+    "C": "Brain",
+    "D": "Kidneys"
+  },
+  "answer": "A"
+},
+{
+  "question": "What is the tallest mountain in North America?",
+  "options": {
+    "A": "Mount McKinley",
+    "B": "Mount Logan",
+    "C": "Mount Saint Elias",
+    "D": "Pico de Orizaba"
+  },
+  "answer": "A"
+},
+{
+  "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+  "options": {
+    "A": "Amelia Earhart",
+    "B": "Bessie Coleman",
+    "C": "Willa Brown",
+    "D": "Jean Batten"
+  },
+  "answer": "A"
+},
+{
+  "question": "What is the capital of France?",
+  "options": {
+    "A": "Paris",
+    "B": "Lyon",
+    "C": "Marseille",
+    "D": "Toulouse"
+  },
+  "answer": "A"
+},
+{
+  "question": "Who painted the Mona Lisa?",
+  "options": {
+    "A": "Michelangelo",
+    "B": "Raphael",
+    "C": "Donatello",
+    "D": "Leonardo da Vinci"
+  },
+  "answer": "D"
+},
+{
+  "question": "Who is the author of the Harry Potter series?",
+  "options": {
+    "A": "Roald Dahl",
+    "B": "C. S. Lewis",
+    "C": "J. K. Rowling",
+    "D": "J. R. R. Tolkien"
+  },
+  "answer": "C"
+},
+{
+  "question": "Who is known as the 'Father of Medicine'?",
+  "options": {
+    "A": "Aristotle",
+    "B": "Galileo Galilei",
+    "C": "Hippocrates",
+    "D": "Isaac Newton"
+  },
+  "answer": "C"
+},
+{
+  "question": "What is the tallest mountain in South America?",
+  "options": {
+    "A": "Mount Kilimanjaro",
+    "B": "Mount Aconcagua",
+    "C": "Mount Elbrus",
+    "D": "Mount Vinson"
+  },
+  "answer": "B"
+},
+{
+  "question": "Who is the author of the book series 'A Song of Ice and Fire'?",
+  "options": {
+    "A": "George R. R. Martin",
+    "B": "J. R. R. Tolkien",
+    "C": "C. S. Lewis",
+    "D": "J. K. Rowling"
+  },
+  "answer": "A"
+},
+{
+  "question": "What is the largest and most massive planet in our solar system?",
+  "options": {
+    "A": "Jupiter",
+    "B": "Saturn",
+    "C": "Uranus",
+    "D": "Neptune"
+  },
+  "answer": "A"
+},
+{
+  "question": "Who is known as the 'Father of Classical Physics'?",
+  "options": {
+    "A": "Albert Einstein",
+    "B": "Isaac Newton",
+    "C": "Galileo Galilei",
+    "D": "Max Planck"
+  },
+  "answer": "B"
+},
+{
+  "question": "In which country is the Great Barrier Reef located?",
+  "options": {
+    "A": "Indonesia",
+    "B": "New Zealand",
+    "C": "Philippines",
+    "D": "Australia"
+  },
+  "answer": "D"
+},
+{
+  "question": "Who is the famous painter of 'The Scream'?",
+  "options": {
+    "A": "Vincent van Gogh",
+    "B": "Edvard Munch",
+    "C": "Pablo Picasso",
+    "D": "Salvador Dalí"
+  },
+  "answer": "B"
+},
+{
+  "question": "What is the tallest building in the world?",
+  "options": {
+    "A": "One World Trade Center",
+    "B": "Burj Khalifa",
+    "C": "Shanghai Tower",
+    "D": "Aon Center"
+  },
+  "answer": "B"
+},
+{
+  "question": "Who is known as the 'King of Rock and Roll'?",
+  "options": {
+    "A": "Elvis Presley",
+    "B": "Chuck Berry",
+    "C": "Little Richard",
+    "D": "Fats Domino"
+  },
+  "answer": "A"
+},
+{
+  "question": "What is the largest lake in North America?",
+  "options": {
+    "A": "Lake Superior",
+    "B": "Lake Huron",
+    "C": "Lake Michigan",
+    "D": "Lake Ontario"
+  },
+  "answer": "A"
+},
+{
+  "question": "Who is the author of the 'Alice's Adventures in Wonderland' book?",
+  "options": {
+    "A": "J. M. Barrie",
+    "B": "A. A. Milne",
+    "C": "C. S. Lewis",
+    "D": "Lewis Carroll"
+  },
+  "answer": "D"
+},
+{
+  "question": "In which city can you find the 'Statue of Liberty'?",
+  "options": {
+    "A": "San Francisco",
+    "B": "New York",
+    "C": "Los Angeles",
+    "D": "Miami"
+  },
+  "answer": "B"
+},
+{
+  "question": "Which of the following is not a prime number?",
+  "options": {
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5"
+  },
+  "answer": "C"
+},
+{
+  "question": "In which city were the first modern Olympics held?",
+  "options": {
+    "A": "Athens",
+    "B": "Rome",
+    "C": "London",
+    "D": "Paris"
+  },
+  "answer": "A"
+},
+{
+  "question": "Who directed the movie 'The Godfather'?",
+  "options": {
+    "A": "Martin Scorsese",
+    "B": "Brian De Palma",
+    "C": "Quentin Tarantino",
+    "D": "Francis Ford Coppola"
+  },
+  "answer": "D"
+},
+{
+  "question": "What is the name of the ship that carried the Pilgrims to Plymouth, Massachusetts in 1620?",
+  "options": {
+    "A": "Mayflower",
+    "B": "Santa Maria",
+    "C": "Titanic",
+    "D": "HMS Victory"
+  },
+  "answer": "A"
+},
+{
+  "question": "What is the largest continent by land area?",
+  "options": {
+    "A": "Africa",
+    "B": "Europe",
+    "C": "Asia",
+    "D": "North America"
+  },
+  "answer": "C"
+},
+{
+  "question": "Who is known as the 'Father of the Constitution'?",
+  "options": {
+    "A": "Thomas Jefferson",
+    "B": "George Washington",
+    "C": "Alexander Hamilton",
+    "D": "James Madison"
+  },
+  "answer": "D"
+},
+{
+  "question": "What is the capital of France?",
+  "options": {
+    "A": "London",
+    "B": "Rome",
+    "C": "Paris",
+    "D": "Tokyo"
+  },
+  "answer": "C"
+},
+{
+  "question": "What is the largest ocean in the world?",
+  "options": {
+    "A": "Atlantic Ocean",
+    "B": "Pacific Ocean",
+    "C": "Indian Ocean",
+    "D": "Artic Ocean"
+  },
+  "answer": "B"
+},
+{
+  "question": "Who painted the Mona Lisa?",
+  "options": {
+    "A": "Leonardo da Vinci",
+    "B": "Michelangelo",
+    "C": "Vincent van Gogh",
+    "D": "Pablo Picasso"
+  },
+  "answer": "A"
+},
+{
+  "question": "What is the chemical symbol for gold?",
+  "options": {
+    "A": "Au",
+    "B": "Ag",
+    "C": "Fe",
+    "D": "Cu"
+  },
+  "answer": "A"
+},
+{
+  "question": "What is the name of the largest moon in the solar system?",
+  "options": {
+    "A": "Ganymede",
+    "B": "Titan",
+    "C": "Callisto",
+    "D": "Io"
+  },
+  "answer": "A"
+}]
