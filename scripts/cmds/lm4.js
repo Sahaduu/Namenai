@@ -8,7 +8,7 @@ module.exports = {
     aliases: ["animex"],
     author: "TCA",
     version: "1.0",
-    cooldowns: 20,
+    cooldowns: 65,
     role: 0,
     shortDescription: "Generate anime image based on prompt.",
     longDescription: "Generates an anime image based on the provided prompt.",
