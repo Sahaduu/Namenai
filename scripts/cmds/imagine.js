@@ -10,7 +10,7 @@ module.exports = {
     aliases: ["sdi"],
     author: "Samir Œ/ Architectdevs",
     version: "1.0",
-    countDown: 10,
+    countDown: 90,
     role: 0,
     shortDescription: "Generates an image from a text description",
     longDescription: "Generates an image from a text description",
