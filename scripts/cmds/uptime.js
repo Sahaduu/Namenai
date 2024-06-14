@@ -24,7 +24,7 @@ module.exports = {
     aliases: ["up","upt"],
     version: "2.0",
     author: "Sahadat",
-    role: 0,
+    role: 1,
     shortDescription: { en: "" },
     longDescription: { en: "" },
     category: "system",
@@ -42,7 +42,7 @@ module.exports = {
       const totalUsers = await usersData.getAll();
       const allThreads = await threadsData.getAll();
       const uptime = process.uptime();
-      const serverTimeBD = moment().tz("Asia/Dhaka").format("LLLL");
+      
       const uptimeDuration = moment.duration(uptime, 'seconds');
       const days = Math.floor(uptimeDuration.asDays());
       const hours = uptimeDuration.hours();
@@ -67,7 +67,6 @@ module.exports = {
 - ${days} Dy(s) ${hours} Hr(s) ${minutes} Min(s) ${seconds} sec(s)
 - Total Users: ${totalUsersLength}
 - Total Threads: ${totalThreadsLength}
-- D/T: ${serverTimeBD}
 - Speed: ${pingEnd}ms
 - Speed Status: ${pingStatus}
 ${mediaBanText}
