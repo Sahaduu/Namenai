@@ -20,7 +20,7 @@ const permission = ["100041931226770","100057399829870","100084568197142","10008
     if (!permission.includes(event.senderID)) {
       return api.sendMessage("- You don't have permission to use this command", event.threadID, event.messageID);
 }
-    const threadsFile = 'approve.json';
+    const threadsFile = 'threadsData.json';
   if (args.length < 1) {   
  message.reply("You must give an option: approve (add/delete) [thread ID]");
       return;
