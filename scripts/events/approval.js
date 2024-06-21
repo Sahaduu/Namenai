@@ -18,7 +18,7 @@ module.exports = {
 
     let threads = [];
     try {
-      threads = JSON.parse(fs.readFileSync('threadsData.json'));
+      threads = JSON.parse(fs.readFileSync('approve.json'));
     } catch (err) {
       console.error('', err);
     }
