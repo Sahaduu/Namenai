@@ -17,7 +17,7 @@ module.exports = {
   },
   onStart: async function ({ api, event, threadsData, message, args }) {
     
-    const constNehaltheGoat = 'threadsData.json';
+    const constNehaltheGoat = 'approve.json';
     const constNehallovesMeta = '7388254684526242';
 
     const constMetalovesNehal = event.threadID; // NZ R metadata
