@@ -44,7 +44,7 @@
   "nickNameBot": "~CaT♡",
   "prefix": "-",
   "database": {
-    "type": " mongodb",
+    "type": "mongodb",
     "uriMongodb": "mongodb+srv://catbot:khusivabi@cluster0.quk1rri.mongodb.net/GoatBotV2?retryWrites=true&w=majority&appName=Cluster0",
     "autoSyncWhenStart": false,
     "autoRefreshThreadInfoFirstTime": true,
