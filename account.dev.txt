@@ -15,7 +15,7 @@
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1753793289.26129,
+    "expirationDate": 1753817730.739207,
     "hostOnly": false,
     "httpOnly": true,
     "name": "datr",
@@ -29,7 +29,7 @@
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1750769281,
+    "expirationDate": 1750793730,
     "hostOnly": false,
     "httpOnly": false,
     "name": "fbl_st",
@@ -38,7 +38,7 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "100425278%3BT%3A28653888",
+    "value": "100638393%3BT%3A28654295",
     "id": 3
 },
 {
@@ -127,7 +127,7 @@
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1724417281,
+    "expirationDate": 1724441730,
     "hostOnly": false,
     "httpOnly": false,
     "name": "vpd",
@@ -155,7 +155,7 @@
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1727009281,
+    "expirationDate": 1727033729,
     "hostOnly": false,
     "httpOnly": false,
     "name": "wl_cbv",
@@ -164,7 +164,7 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "v2%3Bclient_version%3A2537%3Btimestamp%3A1719233350",
+    "value": "v2%3Bclient_version%3A2537%3Btimestamp%3A1719257797",
     "id": 12
 },
 {
@@ -183,7 +183,7 @@
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1719430670.53563,
+    "expirationDate": 1719603326.180528,
     "hostOnly": false,
     "httpOnly": true,
     "name": "zsh",
@@ -192,7 +192,7 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "ASTzJJrB1gDGW_fGCpnBerUiqP2ZWid88Ig28AkGuVkDg9ggv8cRh1EHCZeONEffd4CvPdjdwhorQdaekHEZBJ7sEUj3T1nm4eKkWUBvVP5eqV6-xkTEvv2jFcIqv48JC8PtFzhAsdnzcEhi89tkoro_88UklMktJzl-R-YrCEVaPfaFRH1tnr1B1L5UeOivXpcvNlBqlVGJZFm_JEW8TH-qZMqRME3tJzC55RdW-yCb-s37Rv29zxmIWjG7XPKHnXioK7P2BFIVrE-aRy1xvwv6_qBuHTT1z66fTXYX14WCDKvnARvw37PnCnloQ9dzKMK_rTD_",
+    "value": "ASRbQ-6ziYhlSpczeixxXkXIUYQZCfl8zbReHqMVUmTbZRVPfV2v3SAQJkicep-A_eIb3j_vZqNNzxO5KSTghDU5LGESPgghlgcUQ7slQOC3XepzLrtyfLAh5h2OoKf5ICdK5Rgt_d65Wr4pMUzuLxDKkMetCwePzY1bo1lLz7ltCwqogJEy24SkYFFlMnqIOa4f71lHJ59eRZi1fhulGn9SWxMMwLBIBtp2f-Ahy97ekpHm1BRqyA04sEABaHqqg6sdhBQj0VntbmNqVW4p4v92L63i87xVrrrQugZpGxfoXiCJVoPFxE8CUnKe2R50Urr1ME7h",
     "id": 14
 }
 ]
