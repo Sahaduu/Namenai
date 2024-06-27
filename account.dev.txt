@@ -15,7 +15,7 @@
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1754047602.790487,
+    "expirationDate": 1754055479.989251,
     "hostOnly": false,
     "httpOnly": true,
     "name": "datr",
@@ -29,7 +29,7 @@
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1751023731,
+    "expirationDate": 1751031532,
     "hostOnly": false,
     "httpOnly": false,
     "name": "fbl_st",
@@ -38,7 +38,7 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "100621490%3BT%3A28658128",
+    "value": "100630277%3BT%3A28658258",
     "id": 3
 },
 {
@@ -140,7 +140,7 @@
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1724671731,
+    "expirationDate": 1724679532,
     "hostOnly": false,
     "httpOnly": false,
     "name": "vpd",
@@ -154,20 +154,21 @@
 },
 {
     "domain": ".facebook.com",
+    "expirationDate": 1720100328,
     "hostOnly": false,
     "httpOnly": false,
     "name": "wd",
     "path": "/",
-    "sameSite": "unspecified",
+    "sameSite": "lax",
     "secure": true,
-    "session": true,
+    "session": false,
     "storeId": "0",
-    "value": "412x915",
+    "value": "412x783",
     "id": 12
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1727263731,
+    "expirationDate": 1727271531,
     "hostOnly": false,
     "httpOnly": false,
     "name": "wl_cbv",
@@ -176,7 +177,7 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "v2%3Bclient_version%3A2542%3Btimestamp%3A1719487803",
+    "value": "v2%3Bclient_version%3A2542%3Btimestamp%3A1719495604",
     "id": 13
 },
 {
@@ -189,7 +190,7 @@
     "secure": true,
     "session": true,
     "storeId": "0",
-    "value": "eyJyIjoiL3gvY2hlY2twb2ludC9oYWNrZWRfY2xlYW51cC8%2FcmVhc29uPWVwc2lsb25fcmV2aWV3X2FjdGl2aXR5JmVhdj1BZlpoazBSVE56WmVTaXZTT0dVQXc3NERkQlBOYmJhMmJEZU9LTXJMeXRkd01GdDFxbHZ2ZjlOOWlpMk52dWREU3BJJnBhaXB2PTAmZXh0PTE3MTk3NDY5NDAmaGFzaD1BZVJ1NnlVaHlJZVlFVGl6dHJBIiwiaCI6Ii94L2NoZWNrcG9pbnQvaGFja2VkX2NsZWFudXAvP3JlYXNvbj1lcHNpbG9uX3Jldmlld19hY3Rpdml0eSZlYXY9QWZaaGswUlROelplU2l2U09HVUF3NzREZEJQTmJiYTJiRGVPS01yTHl0ZHdNRnQxcWx2dmY5TjlpaTJOdnVkRFNwSSZwYWlwdj0wJmV4dD0xNzE5NzQ2OTQwJmhhc2g9QWVSdTZ5VWh5SWVZRVRpenRyQSIsInMiOiJtIn0%3D",
+    "value": "eyJyIjoiL2hvbWUucGhwIiwiaCI6Ii9ob21lLnBocCIsInMiOiJtIn0%3D",
     "id": 14
 },
 {
